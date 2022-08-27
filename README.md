@@ -23,7 +23,7 @@
       We can see by looking at our new chart that the months of June and July both have a greater success rate.
  ![Outcome based on Launched Date](https://user-images.githubusercontent.com/95191568/187048219-9aa322dd-4509-48f3-9643-a68b78153d02.png)
   ### Analysis of Outcomes Based on Goals
-  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95191568/187048272-ebf4aa1d-b7f3-4c0f-a00f-91d117d21cf7.png)
+ 
   
   
   
