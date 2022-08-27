@@ -20,8 +20,8 @@
   * Using correct formulas to calculate
   * Data Visualization
   ### Analysis of Outcomes Based on Launch Date
-      We can see by looking at our new chart that the months of June and July both have a greater success rate.
- ![Outcome based on Launched Date](https://user-images.githubusercontent.com/95191568/187048219-9aa322dd-4509-48f3-9643-a68b78153d02.png)
+      We can see by looking at our new chart that the months of June and July both have a greater
+      success rate.
   ### Analysis of Outcomes Based on Goals
   ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95191568/187048522-53bb4b92-2105-4ce4-a7a0-7e219f63ef2f.png)
 
