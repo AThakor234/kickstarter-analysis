@@ -21,7 +21,7 @@
   * Data Visualization
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of May and June both have a greater success rate.
-      ![Outcome based on Launched Date](https://user-images.githubusercontent.com/95191568/187047975-90358131-e585-4080-b9c1-70739063e31a.png)
+ 
     
   ### Analysis of Outcomes Based on Goals
   
