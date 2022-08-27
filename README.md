@@ -22,5 +22,7 @@
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of May and June both have a greater success rate.
       ![Outcome based on Launched Date](https://github.com/AThakor234/kickstarter-analysis/blob/main/CrowdFunding%20Analysis/Outcome%20based%20on%20Launched%20Date.png)
+  ### Analysis of Outcomes Based on Goals
+      ![Outcomes Based on Goals]
       
  
