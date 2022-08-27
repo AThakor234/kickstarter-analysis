@@ -21,4 +21,6 @@
   * Data Visualization
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of May and June both have a greater success rate.
+      ![Outcomes Based on Launch Date](/CrowdFunding Analysis/Outcome based on Launched Date)
+      
  
