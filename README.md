@@ -22,6 +22,7 @@
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of June and July both have a greater
       success rate.
+      ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95191568/187048885-490283cb-55f0-4ede-8df2-a7eca4d0c30d.png)
   ### Analysis of Outcomes Based on Goals
   ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95191568/187048522-53bb4b92-2105-4ce4-a7a0-7e219f63ef2f.png)
 
