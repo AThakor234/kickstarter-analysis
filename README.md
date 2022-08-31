@@ -29,6 +29,7 @@
       
   ### Analysis of Outcomes Based on Goals
       We can conclude from the chart below that Goals with range 45000 to 49999 has the highest number of Percentage failed and same range has lowest Percentage Successful.Louise highest Percentage successful falls in the range of 35000 to 44999.
+      ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95191568/187802000-cb4d8f49-e036-4e7b-bd8a-02c31c8f0e8d.png)
       
 
     
