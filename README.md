@@ -22,6 +22,8 @@
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of May has a greater
       success rate.
+      ![Thearter Based Outcome](https://user-images.githubusercontent.com/95191568/187801893-d7f880df-61ef-4c98-9e2f-1d1a55d2b734.png)
+
      
       
       
