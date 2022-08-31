@@ -33,19 +33,27 @@
   
   
   ### Challenges and Difficulties Encountered
+    * Getting accurate data
+    * Using approriate chart to visualize
+    * Adequate knowledge of tools
+    * Organising and Sorting of data
   
   
  -------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ## Results
   -What are two conclusions you can draw about the Outcomes based on Launch Date?
+    1. Outcomes based on launch Date concludes that month of May has highest number of successful.
+    2. Canceled outcomes seems to be steady.
 
 
   -What can you conclude about the Outcomes based on Goals?
+    1. 100% Successful outcomes based on Goals was achieved by the Range 45000 to 49999.
   
-
   -What are some limitations of this dataset?
+    Data from the columns deadline and launched_at needs appropriate format.Such data requires pre-processing before its analysis's ready.
 
   -What are some other possible tables and/or graphs that we could create?
+    Possibile graphs that we could create can be Outcomes based on Country,
  
 
   
