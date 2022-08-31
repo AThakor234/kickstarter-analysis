@@ -22,13 +22,12 @@
   ### Analysis of Outcomes Based on Launch Date
       We can see by looking at our new chart that the months of May has a greater
       success rate.
-      ![Thearter Based Outcome](https://user-images.githubusercontent.com/95191568/187749829-b7201dd1-3271-4911-b7c4-918da1424ed5.png)
+     
       
       
   ### Analysis of Outcomes Based on Goals
       We can conclude from the chart below that Goals with range 45000 to 49999 has the highest number of Percentage failed and same range has lowest Percentage Successful.Louise highest Percentage successful falls in the range of 35000 to 44999.
       
-      ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95191568/187750034-40f2e88c-445d-4852-8c31-f09e15bbcc3b.png)
 
     
 
